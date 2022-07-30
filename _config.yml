@@ -1,6 +1,20 @@
-title: Khalid Omar
+title: <p align="center"> Khalid Omar
 logo: /assets/img/p4.jpg
-description: Minimal is a theme for GitHub Pages.
+description:
 show_downloads: true
 google_analytics:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/khalid-omar-7b1730164/">LinkedIn</a> |
+  <a href="https://github.com/khalidmomar">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Also handing the Big Data from real-time Ad call data.
+  Worked with IBM Watson.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
